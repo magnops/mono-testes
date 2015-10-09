@@ -1,0 +1,5 @@
+/home/magno/repositorios/mono-testes/mono-testes/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/magno/repositorios/mono-testes/mono-testes/bin/mono-testes.dll.mdb
+/home/magno/repositorios/mono-testes/mono-testes/bin/mono-testes.dll
+/home/magno/repositorios/mono-testes/mono-testes/obj/Debug/mono-testes.dll
+/home/magno/repositorios/mono-testes/mono-testes/obj/Debug/mono-testes.dll.mdb
